@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 - 2026-11-03
+
+- Prepared for the WordPress.org plugin directory: the plugin no longer bundles translations or calls `load_plugin_textdomain()`, so WordPress loads them from translate.wordpress.org. The source `.l10n.php` files moved to `translations/` (not shipped) for import there.
+
 ## 0.1.0 - 2026-11-02
 
 - Live viewer count on product pages, with a threshold, and a store-wide count through `[hibira_viewers scope="store"]`.
