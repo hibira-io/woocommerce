@@ -3,7 +3,7 @@
  * Plugin Name:          Hibira Live Visitors for WooCommerce
  * Plugin URI:           https://hibira.io/guides/woocommerce
  * Description:          Real "12 people are viewing this" counts, "someone just bought" popups and live stock on product pages, counted from open browser tabs on Hibira's realtime service. No fake numbers.
- * Version:              0.1.0
+ * Version:              0.1.1
  * Requires at least:    6.5
  * Requires PHP:         7.4
  * Requires Plugins:     woocommerce
@@ -14,14 +14,13 @@
  * License:              GPL-2.0-or-later
  * License URI:          https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:          hibira-live-visitors
- * Domain Path:          /languages
  *
  * @package Hibira_Live_Visitors
  */
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'HIBIRA_LV_VERSION', '0.1.0' );
+define( 'HIBIRA_LV_VERSION', '0.1.1' );
 define( 'HIBIRA_LV_FILE', __FILE__ );
 define( 'HIBIRA_LV_DIR', plugin_dir_path( __FILE__ ) );
 define( 'HIBIRA_LV_URL', plugin_dir_url( __FILE__ ) );
@@ -38,13 +37,6 @@ add_action(
 			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', HIBIRA_LV_FILE, true );
 			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'cart_checkout_blocks', HIBIRA_LV_FILE, true );
 		}
-	}
-);
-
-add_action(
-	'init',
-	function () {
-		load_plugin_textdomain( 'hibira-live-visitors', false, dirname( plugin_basename( HIBIRA_LV_FILE ) ) . '/languages' );
 	}
 );
 

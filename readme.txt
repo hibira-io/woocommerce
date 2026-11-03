@@ -4,7 +4,7 @@ Tags: woocommerce, live visitors, social proof, sales popup, realtime
 Requires at least: 6.5
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ Yes. The badge is the number of open tabs subscribed to the product's channel, r
 No. Events are sent after WordPress has finished the response.
 
 == Changelog ==
+
+= 0.1.1 =
+* Prepared for the WordPress.org plugin directory: translations now come from translate.wordpress.org.
 
 = 0.1.0 =
 * First release: product viewers, store-wide count, purchase popups and live stock.
