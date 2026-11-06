@@ -1,10 +1,10 @@
-=== Hibira Live Visitors for WooCommerce ===
+=== Hibira Live Visitors ===
 Contributors: hibira
 Tags: woocommerce, live visitors, social proof, sales popup, realtime
 Requires at least: 6.5
-Tested up to: 6.8
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,10 @@ Yes. The badge is the number of open tabs subscribed to the product's channel, r
 No. Events are sent after WordPress has finished the response.
 
 == Changelog ==
+
+= 0.1.2 =
+* Plugin name is now "Hibira Live Visitors", so the WordPress.org slug matches the text domain `hibira-live-visitors`.
+* Tested up to WordPress 7.1.
 
 = 0.1.1 =
 * Prepared for the WordPress.org plugin directory: translations now come from translate.wordpress.org.

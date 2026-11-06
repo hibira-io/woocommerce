@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 - 2026-11-06
+
+- Plugin name is now "Hibira Live Visitors", so the WordPress.org slug matches the text domain `hibira-live-visitors`. It still requires WooCommerce.
+- Tested up to WordPress 7.1.
+
 ## 0.1.1 - 2026-11-03
 
 - Prepared for the WordPress.org plugin directory: the plugin no longer bundles translations or calls `load_plugin_textdomain()`, so WordPress loads them from translate.wordpress.org. The source `.l10n.php` files moved to `translations/` (not shipped) for import there.
