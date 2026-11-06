@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name:          Hibira Live Visitors for WooCommerce
+ * Plugin Name:          Hibira Live Visitors
  * Plugin URI:           https://hibira.io/guides/woocommerce
  * Description:          Real "12 people are viewing this" counts, "someone just bought" popups and live stock on product pages, counted from open browser tabs on Hibira's realtime service. No fake numbers.
- * Version:              0.1.1
+ * Version:              0.1.2
  * Requires at least:    6.5
  * Requires PHP:         7.4
  * Requires Plugins:     woocommerce
@@ -20,7 +20,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'HIBIRA_LV_VERSION', '0.1.1' );
+define( 'HIBIRA_LV_VERSION', '0.1.2' );
 define( 'HIBIRA_LV_FILE', __FILE__ );
 define( 'HIBIRA_LV_DIR', plugin_dir_path( __FILE__ ) );
 define( 'HIBIRA_LV_URL', plugin_dir_url( __FILE__ ) );
