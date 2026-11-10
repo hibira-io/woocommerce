@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hibira Live Visitors\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "Bottom left"
+msgstr "Dưới bên trái"
+
+msgid "Bottom right"
+msgstr "Dưới bên phải"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Connection"
+msgstr "Kết nối"
+
+msgid "Count shoppers on every shop page; show it with [hibira_viewers scope=\"store\"]"
+msgstr "Đếm người đang mua sắm trên mọi trang cửa hàng; hiển thị bằng [hibira_viewers scope=\"store\"]"
+
+msgid "Create a free app at %1$s and copy its App ID, Key and Secret. On the app page, turn on <strong>Send subscriber counts</strong> and add %2$s to <strong>Allowed origins</strong>."
+msgstr "Tạo ứng dụng miễn phí tại %1$s và sao chép App ID, Key, Secret. Trên trang ứng dụng, bật <strong>Gửi số người đăng ký</strong> và thêm %2$s vào <strong>Nguồn được phép</strong>."
+
+msgid "Every number is a real open browser tab, counted by Hibira. Nothing is made up."
+msgstr "Mỗi con số là một tab trình duyệt thật do Hibira đếm. Không có số ảo."
+
+msgid "Hibira app"
+msgstr "Ứng dụng Hibira"
+
+msgid "Host"
+msgstr "Máy chủ"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Live stock"
+msgstr "Tồn kho thời gian thực"
+
+msgid "Live visitors"
+msgstr "Khách truy cập thời gian thực"
+
+msgid "Or define HIBIRA_APP_SECRET in wp-config.php to keep it out of the database."
+msgstr "Hoặc định nghĩa HIBIRA_APP_SECRET trong wp-config.php để không lưu vào cơ sở dữ liệu."
+
+msgid "Popup position"
+msgstr "Vị trí popup"
+
+msgid "Product viewers"
+msgstr "Số người xem sản phẩm"
+
+msgid "Purchase popups"
+msgstr "Popup mua hàng"
+
+msgid "Recent orders for"
+msgstr "Hiển thị đơn gần đây trong"
+
+msgid "Save first. The event appears in the Debug tab of your Hibira app."
+msgstr "Hãy lưu trước. Sự kiện sẽ hiện trong tab Gỡ lỗi của ứng dụng Hibira."
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Send a test event"
+msgstr "Gửi sự kiện thử"
+
+msgid "Set the App ID, Key and Secret first."
+msgstr "Hãy đặt App ID, Key và Secret trước."
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Show \"3 people are viewing this right now\" on product pages"
+msgstr "Hiển thị \"3 người đang xem\" trên trang sản phẩm"
+
+msgid "Show \"Someone just bought\" with the product, live and for recent orders. No customer names or places."
+msgstr "Hiển thị \"Ai đó vừa mua\" cùng sản phẩm, theo thời gian thực và cho đơn gần đây. Không hiện tên hay địa điểm khách hàng."
+
+msgid "Show from"
+msgstr "Hiển thị từ"
+
+msgid "Someone just bought"
+msgstr "Ai đó vừa mua"
+
+msgid "Store-wide count"
+msgstr "Số người toàn cửa hàng"
+
+msgid "Test event sent to %s."
+msgstr "Đã gửi sự kiện thử tới %s."
+
+msgid "The test event failed: %s"
+msgstr "Gửi sự kiện thử thất bại: %s"
+
+msgid "Update \"Only 2 left in stock\" and \"Out of stock\" on open product pages as orders come in"
+msgstr "Cập nhật \"Chỉ còn 2 sản phẩm\" và \"Hết hàng\" trên trang sản phẩm đang mở khi có đơn hàng"
+
+msgid "What shoppers see"
+msgstr "Khách hàng thấy gì"
+
+msgid "You are not allowed to do this."
+msgstr "Bạn không có quyền làm việc này."
+
+msgid "hours. A visitor who arrives later sees one popup from this window."
+msgstr "giờ. Khách đến sau sẽ thấy một popup trong khoảng thời gian này."
+
+msgid "viewers. Below this the badge stays hidden."
+msgstr "người. Ít hơn thì không hiển thị."
+
+msgid "ws.hibira.io unless your app lives in another cluster."
+msgstr "Để ws.hibira.io trừ khi ứng dụng của bạn ở cụm khác."
+
+msgid "{count} people are shopping right now"
+msgstr "{count} người đang mua sắm"
+
+msgid "{count} people are viewing this right now"
+msgstr "{count} người đang xem sản phẩm này"
+
+msgid "{count} person is shopping right now"
+msgstr "{count} người đang mua sắm"
+
+msgid "{count} person is viewing this right now"
+msgstr "{count} người đang xem sản phẩm này"

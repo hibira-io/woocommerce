@@ -48,6 +48,14 @@ Yes. The badge is the number of open tabs subscribed to the product's channel, r
 
 No. Events are sent after WordPress has finished the response.
 
+== Screenshots ==
+
+1. A product page with four shoppers on it: the live viewer count, live stock and a "Someone just bought" popup from a paid order.
+2. The store-wide count from `[hibira_viewers scope="store"]`, with the recent order popup a later visitor sees.
+3. When the last item sells, open product pages switch to "Out of stock" and disable the add to cart button.
+4. The viewer count on a phone.
+5. WooCommerce > Settings > Live visitors.
+
 == Changelog ==
 
 = 0.1.2 =

@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hibira Live Visitors\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "Bottom left"
+msgstr "ล่างซ้าย"
+
+msgid "Bottom right"
+msgstr "ล่างขวา"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Connection"
+msgstr "การเชื่อมต่อ"
+
+msgid "Count shoppers on every shop page; show it with [hibira_viewers scope=\"store\"]"
+msgstr "นับผู้ซื้อในทุกหน้าร้านค้า แสดงด้วย [hibira_viewers scope=\"store\"]"
+
+msgid "Create a free app at %1$s and copy its App ID, Key and Secret. On the app page, turn on <strong>Send subscriber counts</strong> and add %2$s to <strong>Allowed origins</strong>."
+msgstr "สร้างแอปฟรีที่ %1$s แล้วคัดลอก App ID, Key และ Secret ในหน้าแอป ให้เปิด <strong>ส่งจำนวนผู้สมัครรับ</strong> และเพิ่ม %2$s ใน <strong>ต้นทางที่อนุญาต</strong>"
+
+msgid "Every number is a real open browser tab, counted by Hibira. Nothing is made up."
+msgstr "ทุกตัวเลขคือแท็บเบราว์เซอร์จริงที่ Hibira นับ ไม่มีการเติมตัวเลข"
+
+msgid "Hibira app"
+msgstr "แอป Hibira"
+
+msgid "Host"
+msgstr "โฮสต์"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Live stock"
+msgstr "สต็อกแบบเรียลไทม์"
+
+msgid "Live visitors"
+msgstr "ผู้เข้าชมแบบเรียลไทม์"
+
+msgid "Or define HIBIRA_APP_SECRET in wp-config.php to keep it out of the database."
+msgstr "หรือกำหนด HIBIRA_APP_SECRET ใน wp-config.php เพื่อไม่ให้เก็บในฐานข้อมูล"
+
+msgid "Popup position"
+msgstr "ตำแหน่งป๊อปอัป"
+
+msgid "Product viewers"
+msgstr "จำนวนผู้ดูสินค้า"
+
+msgid "Purchase popups"
+msgstr "ป๊อปอัปการซื้อ"
+
+msgid "Recent orders for"
+msgstr "แสดงคำสั่งซื้อล่าสุดย้อนหลัง"
+
+msgid "Save first. The event appears in the Debug tab of your Hibira app."
+msgstr "บันทึกก่อน อีเวนต์จะแสดงในแท็บดีบักของแอป Hibira"
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Send a test event"
+msgstr "ส่งอีเวนต์ทดสอบ"
+
+msgid "Set the App ID, Key and Secret first."
+msgstr "ตั้งค่า App ID, Key และ Secret ก่อน"
+
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+msgid "Show \"3 people are viewing this right now\" on product pages"
+msgstr "แสดง \"มี 3 คนกำลังดูอยู่\" ในหน้าสินค้า"
+
+msgid "Show \"Someone just bought\" with the product, live and for recent orders. No customer names or places."
+msgstr "แสดง \"มีคนเพิ่งซื้อ\" พร้อมสินค้า ทั้งแบบเรียลไทม์และคำสั่งซื้อล่าสุด ไม่แสดงชื่อหรือที่อยู่ลูกค้า"
+
+msgid "Show from"
+msgstr "แสดงเมื่อมีอย่างน้อย"
+
+msgid "Someone just bought"
+msgstr "มีคนเพิ่งซื้อ"
+
+msgid "Store-wide count"
+msgstr "จำนวนทั้งร้าน"
+
+msgid "Test event sent to %s."
+msgstr "ส่งอีเวนต์ทดสอบไปที่ %s แล้ว"
+
+msgid "The test event failed: %s"
+msgstr "อีเวนต์ทดสอบล้มเหลว: %s"
+
+msgid "Update \"Only 2 left in stock\" and \"Out of stock\" on open product pages as orders come in"
+msgstr "อัปเดต \"เหลือเพียง 2 ชิ้น\" และ \"สินค้าหมด\" ในหน้าสินค้าที่เปิดอยู่ทันทีเมื่อมีคำสั่งซื้อ"
+
+msgid "What shoppers see"
+msgstr "สิ่งที่ลูกค้าเห็น"
+
+msgid "You are not allowed to do this."
+msgstr "คุณไม่มีสิทธิ์ทำสิ่งนี้"
+
+msgid "hours. A visitor who arrives later sees one popup from this window."
+msgstr "ชั่วโมง ผู้เข้าชมที่มาทีหลังจะเห็นป๊อปอัปหนึ่งรายการจากช่วงนี้"
+
+msgid "viewers. Below this the badge stays hidden."
+msgstr "คน ถ้าน้อยกว่านี้จะไม่แสดง"
+
+msgid "ws.hibira.io unless your app lives in another cluster."
+msgstr "ใช้ ws.hibira.io เว้นแต่แอปของคุณอยู่ในคลัสเตอร์อื่น"
+
+msgid "{count} people are shopping right now"
+msgstr "มี {count} คนกำลังช้อปอยู่"
+
+msgid "{count} people are viewing this right now"
+msgstr "มี {count} คนกำลังดูอยู่"
+
+msgid "{count} person is shopping right now"
+msgstr "มี {count} คนกำลังช้อปอยู่"
+
+msgid "{count} person is viewing this right now"
+msgstr "มี {count} คนกำลังดูอยู่"

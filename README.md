@@ -50,6 +50,12 @@ Filters: `hibira_lv_load` (load the script on more pages) and `hibira_lv_client`
 
 `tests/e2e/live-visitors.cjs` drives three shoppers with Playwright against a local WordPress + WooCommerce and a local Hibira server: viewer counts, a tab leaving, a stock change, a paid order (popup, out of stock, disabled button) and a later visitor's popup.
 
+## Releasing
+
+Publishing a GitHub Release (tag `v<Version>`) attaches the zip (`release.yml`) and deploys to [WordPress.org](https://wordpress.org/plugins/hibira-live-visitors/) over SVN (`wporg-deploy.yml`): trunk, `tags/<Version>` and the directory assets in `.wordpress-org/` (banners, icons, screenshots). It needs the `SVN_PASSWORD` repository secret (WordPress.org account `hibira`). Run it by hand from the Actions tab to redeploy, with **dry_run** to only print the SVN changes.
+
+Translations come from [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/hibira-live-visitors/). `translations/*.po` (not shipped) are the starting translations to import there.
+
 ## License
 
 GPL-2.0-or-later
@@ -61,3 +67,5 @@ GPL-2.0-or-later
 Hibira Live Visitors 為 WooCommerce 商品頁加上真實的「現在有 3 人正在看」、「有人剛買了」彈窗和即時庫存。所有數字都是 Hibira 數出的真實開啟分頁，不造假。
 
 安裝後在 Hibira 建立 app 並開啟 **Subscription count**，到 **WooCommerce → 設定 → Live visitors** 貼上 App ID、key、secret 並送出測試事件即可。也可用 `wp-config.php` 的 `HIBIRA_APP_*` 常數設定。全站人數用短代碼 `[hibira_viewers scope="store"]`。支援區塊佈景主題與 HPOS，免費方案（100 連線）即可使用。後台介面支援英文、繁中、簡中、日、韓、泰、越。
+
+發布：發佈 GitHub Release（tag `v<版本>`）會自動上傳 zip 並經 SVN 部署到 WordPress.org（trunk、tags、`.wordpress-org/` 的 banner/icon/截圖），需要 `SVN_PASSWORD` secret。翻譯在 translate.wordpress.org，`translations/*.po` 用於首次匯入。

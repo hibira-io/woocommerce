@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hibira Live Visitors\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom right"
+msgstr "右下"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Connection"
+msgstr "连接"
+
+msgid "Count shoppers on every shop page; show it with [hibira_viewers scope=\"store\"]"
+msgstr "在所有商店页面统计购物人数；用 [hibira_viewers scope=\"store\"] 显示"
+
+msgid "Create a free app at %1$s and copy its App ID, Key and Secret. On the app page, turn on <strong>Send subscriber counts</strong> and add %2$s to <strong>Allowed origins</strong>."
+msgstr "到 %1$s 创建免费应用，复制 App ID、Key 与 Secret。在应用页面开启<strong>发送订阅人数</strong>，并把 %2$s 加到<strong>允许的来源</strong>。"
+
+msgid "Every number is a real open browser tab, counted by Hibira. Nothing is made up."
+msgstr "每个数字都是 Hibira 统计的真实浏览器标签页，没有任何注水。"
+
+msgid "Hibira app"
+msgstr "Hibira 应用"
+
+msgid "Host"
+msgstr "主机"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Live stock"
+msgstr "实时库存"
+
+msgid "Live visitors"
+msgstr "实时访客"
+
+msgid "Or define HIBIRA_APP_SECRET in wp-config.php to keep it out of the database."
+msgstr "或在 wp-config.php 定义 HIBIRA_APP_SECRET，不存进数据库。"
+
+msgid "Popup position"
+msgstr "弹窗位置"
+
+msgid "Product viewers"
+msgstr "商品浏览人数"
+
+msgid "Purchase popups"
+msgstr "购买弹窗"
+
+msgid "Recent orders for"
+msgstr "近期订单显示"
+
+msgid "Save first. The event appears in the Debug tab of your Hibira app."
+msgstr "请先保存。事件会出现在 Hibira 应用的“调试”标签页。"
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Send a test event"
+msgstr "发送测试事件"
+
+msgid "Set the App ID, Key and Secret first."
+msgstr "请先设置 App ID、Key 与 Secret。"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Show \"3 people are viewing this right now\" on product pages"
+msgstr "在商品页显示“当前有 3 人正在浏览”"
+
+msgid "Show \"Someone just bought\" with the product, live and for recent orders. No customer names or places."
+msgstr "实时与近期订单都会显示“有人刚买了”与商品。不显示顾客姓名或地点。"
+
+msgid "Show from"
+msgstr "显示门槛"
+
+msgid "Someone just bought"
+msgstr "有人刚买了"
+
+msgid "Store-wide count"
+msgstr "全店人数"
+
+msgid "Test event sent to %s."
+msgstr "测试事件已发送到 %s。"
+
+msgid "The test event failed: %s"
+msgstr "测试事件失败：%s"
+
+msgid "Update \"Only 2 left in stock\" and \"Out of stock\" on open product pages as orders come in"
+msgstr "订单进来时，在打开的商品页实时更新“仅剩 2 件”与“已售罄”"
+
+msgid "What shoppers see"
+msgstr "顾客看到的内容"
+
+msgid "You are not allowed to do this."
+msgstr "你没有权限执行此操作。"
+
+msgid "hours. A visitor who arrives later sees one popup from this window."
+msgstr "小时。之后才进来的访客会看到这段时间内的一条弹窗。"
+
+msgid "viewers. Below this the badge stays hidden."
+msgstr "人。低于此数时不显示。"
+
+msgid "ws.hibira.io unless your app lives in another cluster."
+msgstr "除非你的应用位于其他集群，否则填 ws.hibira.io。"
+
+msgid "{count} people are shopping right now"
+msgstr "当前有 {count} 人正在购物"
+
+msgid "{count} people are viewing this right now"
+msgstr "当前有 {count} 人正在浏览"
+
+msgid "{count} person is shopping right now"
+msgstr "当前有 {count} 人正在购物"
+
+msgid "{count} person is viewing this right now"
+msgstr "当前有 {count} 人正在浏览"
