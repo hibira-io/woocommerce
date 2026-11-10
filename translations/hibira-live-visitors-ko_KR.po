@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hibira Live Visitors\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "Bottom left"
+msgstr "왼쪽 아래"
+
+msgid "Bottom right"
+msgstr "오른쪽 아래"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Connection"
+msgstr "연결"
+
+msgid "Count shoppers on every shop page; show it with [hibira_viewers scope=\"store\"]"
+msgstr "모든 쇼핑 페이지에서 쇼핑 중인 인원을 셉니다. [hibira_viewers scope=\"store\"]로 표시합니다"
+
+msgid "Create a free app at %1$s and copy its App ID, Key and Secret. On the app page, turn on <strong>Send subscriber counts</strong> and add %2$s to <strong>Allowed origins</strong>."
+msgstr "%1$s에서 무료 앱을 만들고 App ID, Key, Secret을 복사하세요. 앱 페이지에서 <strong>구독자 수 보내기</strong>를 켜고 %2$s를 <strong>허용된 출처</strong>에 추가하세요."
+
+msgid "Every number is a real open browser tab, counted by Hibira. Nothing is made up."
+msgstr "모든 숫자는 Hibira가 센 실제 브라우저 탭입니다. 부풀린 숫자는 없습니다."
+
+msgid "Hibira app"
+msgstr "Hibira 앱"
+
+msgid "Host"
+msgstr "호스트"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Live stock"
+msgstr "실시간 재고"
+
+msgid "Live visitors"
+msgstr "실시간 방문자"
+
+msgid "Or define HIBIRA_APP_SECRET in wp-config.php to keep it out of the database."
+msgstr "또는 wp-config.php에 HIBIRA_APP_SECRET을 정의하면 데이터베이스에 저장되지 않습니다."
+
+msgid "Popup position"
+msgstr "팝업 위치"
+
+msgid "Product viewers"
+msgstr "상품 조회 인원"
+
+msgid "Purchase popups"
+msgstr "구매 팝업"
+
+msgid "Recent orders for"
+msgstr "최근 주문 표시 기간"
+
+msgid "Save first. The event appears in the Debug tab of your Hibira app."
+msgstr "먼저 저장하세요. 이벤트는 Hibira 앱의 디버그 탭에 표시됩니다."
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Send a test event"
+msgstr "테스트 이벤트 보내기"
+
+msgid "Set the App ID, Key and Secret first."
+msgstr "먼저 App ID, Key, Secret을 설정하세요."
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Show \"3 people are viewing this right now\" on product pages"
+msgstr "상품 페이지에 \"3명이 보고 있습니다\" 표시"
+
+msgid "Show \"Someone just bought\" with the product, live and for recent orders. No customer names or places."
+msgstr "\"방금 누군가 구매했습니다\"와 상품을 실시간 및 최근 주문으로 보여 줍니다. 고객 이름이나 지역은 표시하지 않습니다."
+
+msgid "Show from"
+msgstr "표시 최소 인원"
+
+msgid "Someone just bought"
+msgstr "방금 누군가 구매했습니다"
+
+msgid "Store-wide count"
+msgstr "스토어 전체 인원"
+
+msgid "Test event sent to %s."
+msgstr "%s에 테스트 이벤트를 보냈습니다."
+
+msgid "The test event failed: %s"
+msgstr "테스트 이벤트 실패: %s"
+
+msgid "Update \"Only 2 left in stock\" and \"Out of stock\" on open product pages as orders come in"
+msgstr "주문이 들어오면 열려 있는 상품 페이지의 \"2개 남음\", \"품절\"을 바로 업데이트"
+
+msgid "What shoppers see"
+msgstr "고객에게 보이는 내용"
+
+msgid "You are not allowed to do this."
+msgstr "이 작업을 수행할 권한이 없습니다."
+
+msgid "hours. A visitor who arrives later sees one popup from this window."
+msgstr "시간. 나중에 온 방문자는 이 기간의 팝업을 하나 봅니다."
+
+msgid "viewers. Below this the badge stays hidden."
+msgstr "명. 이보다 적으면 표시하지 않습니다."
+
+msgid "ws.hibira.io unless your app lives in another cluster."
+msgstr "앱이 다른 클러스터에 있지 않다면 ws.hibira.io를 그대로 둡니다."
+
+msgid "{count} people are shopping right now"
+msgstr "{count}명이 쇼핑 중입니다"
+
+msgid "{count} people are viewing this right now"
+msgstr "{count}명이 지금 보고 있습니다"
+
+msgid "{count} person is shopping right now"
+msgstr "{count}명이 쇼핑 중입니다"
+
+msgid "{count} person is viewing this right now"
+msgstr "{count}명이 지금 보고 있습니다"

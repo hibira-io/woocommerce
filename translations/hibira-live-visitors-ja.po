@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hibira Live Visitors\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom right"
+msgstr "右下"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Connection"
+msgstr "接続"
+
+msgid "Count shoppers on every shop page; show it with [hibira_viewers scope=\"store\"]"
+msgstr "すべてのショップページで買い物中の人数を数えます。[hibira_viewers scope=\"store\"] で表示します"
+
+msgid "Create a free app at %1$s and copy its App ID, Key and Secret. On the app page, turn on <strong>Send subscriber counts</strong> and add %2$s to <strong>Allowed origins</strong>."
+msgstr "%1$s で無料のアプリを作成し、App ID、Key、Secret をコピーしてください。アプリページで<strong>購読者数を送信</strong>をオンにし、%2$s を<strong>許可するオリジン</strong>に追加します。"
+
+msgid "Every number is a real open browser tab, counted by Hibira. Nothing is made up."
+msgstr "数字はすべて Hibira が数えた実際のブラウザタブです。水増しはありません。"
+
+msgid "Hibira app"
+msgstr "Hibira アプリ"
+
+msgid "Host"
+msgstr "ホスト"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Live stock"
+msgstr "ライブ在庫"
+
+msgid "Live visitors"
+msgstr "ライブ訪問者"
+
+msgid "Or define HIBIRA_APP_SECRET in wp-config.php to keep it out of the database."
+msgstr "または wp-config.php で HIBIRA_APP_SECRET を定義すれば、データベースに保存されません。"
+
+msgid "Popup position"
+msgstr "ポップアップの位置"
+
+msgid "Product viewers"
+msgstr "商品の閲覧者数"
+
+msgid "Purchase popups"
+msgstr "購入ポップアップ"
+
+msgid "Recent orders for"
+msgstr "最近の注文の表示期間"
+
+msgid "Save first. The event appears in the Debug tab of your Hibira app."
+msgstr "先に保存してください。イベントは Hibira アプリの「デバッグ」タブに表示されます。"
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Send a test event"
+msgstr "テストイベントを送信"
+
+msgid "Set the App ID, Key and Secret first."
+msgstr "先に App ID、Key、Secret を設定してください。"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Show \"3 people are viewing this right now\" on product pages"
+msgstr "商品ページに「3 人が閲覧中」を表示"
+
+msgid "Show \"Someone just bought\" with the product, live and for recent orders. No customer names or places."
+msgstr "「誰かが購入しました」と商品を、リアルタイムと最近の注文で表示します。顧客の名前や地域は表示しません。"
+
+msgid "Show from"
+msgstr "表示する最小人数"
+
+msgid "Someone just bought"
+msgstr "誰かが購入しました"
+
+msgid "Store-wide count"
+msgstr "ストア全体の人数"
+
+msgid "Test event sent to %s."
+msgstr "テストイベントを %s に送信しました。"
+
+msgid "The test event failed: %s"
+msgstr "テストイベントに失敗しました：%s"
+
+msgid "Update \"Only 2 left in stock\" and \"Out of stock\" on open product pages as orders come in"
+msgstr "注文が入ると、開いている商品ページの「残り 2 点」「在庫切れ」をその場で更新"
+
+msgid "What shoppers see"
+msgstr "お客様に表示される内容"
+
+msgid "You are not allowed to do this."
+msgstr "この操作を行う権限がありません。"
+
+msgid "hours. A visitor who arrives later sees one popup from this window."
+msgstr "時間。後から来た訪問者には、この期間のポップアップが 1 件表示されます。"
+
+msgid "viewers. Below this the badge stays hidden."
+msgstr "人。これより少ないときは表示しません。"
+
+msgid "ws.hibira.io unless your app lives in another cluster."
+msgstr "アプリが別のクラスターにない限り ws.hibira.io のままにします。"
+
+msgid "{count} people are shopping right now"
+msgstr "{count} 人が買い物中"
+
+msgid "{count} people are viewing this right now"
+msgstr "{count} 人がこの商品を閲覧中"
+
+msgid "{count} person is shopping right now"
+msgstr "{count} 人が買い物中"
+
+msgid "{count} person is viewing this right now"
+msgstr "{count} 人がこの商品を閲覧中"
