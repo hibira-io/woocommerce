@@ -1,0 +1,39 @@
+1
+00:00:00,300 --> 00:00:05,700
+1. Crea una app gratuita en hibira.io con la dirección de tu tienda
+
+2
+00:00:05,700 --> 00:00:11,400
+2. Copia el App ID, la Key y el Secret
+
+3
+00:00:11,400 --> 00:00:14,320
+3. En Settings, activa «Send subscriber counts» y guarda
+
+4
+00:00:14,320 --> 00:00:18,620
+4. En WordPress, instala el plugin Hibira Live Visitors
+
+5
+00:00:18,620 --> 00:00:27,320
+5. WooCommerce › Ajustes › Visitantes en vivo: pega las claves y guarda
+
+6
+00:00:27,320 --> 00:00:31,640
+6. Envía un evento de prueba para comprobar la conexión
+
+7
+00:00:31,640 --> 00:00:35,240
+Así lo ve un comprador en la página del producto
+
+8
+00:00:35,240 --> 00:00:44,540
+Cada pestaña abierta suma: el contador es real, no inventado
+
+9
+00:00:44,540 --> 00:00:50,940
+Llega un pedido pagado: aviso «Alguien acaba de comprar» y el stock baja
+
+10
+00:00:50,940 --> 00:00:57,000
+Se agota la última unidad: «Sin existencias» al instante, sin recargar

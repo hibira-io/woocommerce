@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hibira Live Visitors\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "Bottom left"
+msgstr "Abajo a la izquierda"
+
+msgid "Bottom right"
+msgstr "Abajo a la derecha"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Connection"
+msgstr "Conexión"
+
+msgid "Count shoppers on every shop page; show it with [hibira_viewers scope=\"store\"]"
+msgstr "Cuenta los compradores en todas las páginas de la tienda; muéstralo con [hibira_viewers scope=\"store\"]"
+
+msgid "Create a free app at %1$s and copy its App ID, Key and Secret. On the app page, turn on <strong>Send subscriber counts</strong> and add %2$s to <strong>Allowed origins</strong>."
+msgstr "Crea una app gratuita en %1$s y copia su App ID, Key y Secret. En la página de la app, activa <strong>Send subscriber counts</strong> y añade %2$s a <strong>Allowed origins</strong>."
+
+msgid "Every number is a real open browser tab, counted by Hibira. Nothing is made up."
+msgstr "Cada número es una pestaña del navegador abierta de verdad, contada por Hibira. Nada es inventado."
+
+msgid "Hibira app"
+msgstr "App de Hibira"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Live stock"
+msgstr "Stock en vivo"
+
+msgid "Live visitors"
+msgstr "Visitantes en vivo"
+
+msgid "Or define HIBIRA_APP_SECRET in wp-config.php to keep it out of the database."
+msgstr "O define HIBIRA_APP_SECRET en wp-config.php para no guardarlo en la base de datos."
+
+msgid "Popup position"
+msgstr "Posición del aviso"
+
+msgid "Product viewers"
+msgstr "Visitantes del producto"
+
+msgid "Purchase popups"
+msgstr "Avisos de compra"
+
+msgid "Recent orders for"
+msgstr "Pedidos recientes durante"
+
+msgid "Save first. The event appears in the Debug tab of your Hibira app."
+msgstr "Guarda primero. El evento aparece en la pestaña Debug de tu app de Hibira."
+
+msgid "Secret"
+msgstr "Secret"
+
+msgid "Send a test event"
+msgstr "Enviar un evento de prueba"
+
+msgid "Set the App ID, Key and Secret first."
+msgstr "Primero introduce el App ID, la Key y el Secret."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Show \"3 people are viewing this right now\" on product pages"
+msgstr "Mostrar «3 personas están viendo esto ahora mismo» en las páginas de producto"
+
+msgid "Show \"Someone just bought\" with the product, live and for recent orders. No customer names or places."
+msgstr "Mostrar «Alguien acaba de comprar» con el producto, en vivo y para pedidos recientes. Sin nombres ni ubicaciones de clientes."
+
+msgid "Show from"
+msgstr "Mostrar a partir de"
+
+msgid "Someone just bought"
+msgstr "Alguien acaba de comprar"
+
+msgid "Store-wide count"
+msgstr "Recuento de toda la tienda"
+
+msgid "Test event sent to %s."
+msgstr "Evento de prueba enviado a %s."
+
+msgid "The test event failed: %s"
+msgstr "El evento de prueba falló: %s"
+
+msgid "Update \"Only 2 left in stock\" and \"Out of stock\" on open product pages as orders come in"
+msgstr "Actualizar «Solo quedan 2 en stock» y «Sin existencias» en las páginas de producto abiertas a medida que llegan pedidos"
+
+msgid "What shoppers see"
+msgstr "Lo que ven los compradores"
+
+msgid "You are not allowed to do this."
+msgstr "No tienes permiso para hacer esto."
+
+msgid "hours. A visitor who arrives later sees one popup from this window."
+msgstr "horas. Un visitante que llega más tarde ve un aviso de este periodo."
+
+msgid "viewers. Below this the badge stays hidden."
+msgstr "visitantes. Por debajo de esta cifra el contador queda oculto."
+
+msgid "ws.hibira.io unless your app lives in another cluster."
+msgstr "ws.hibira.io, salvo que tu app esté en otro clúster."
+
+msgid "{count} people are shopping right now"
+msgstr "{count} personas están comprando ahora mismo"
+
+msgid "{count} people are viewing this right now"
+msgstr "{count} personas están viendo esto ahora mismo"
+
+msgid "{count} person is shopping right now"
+msgstr "{count} persona está comprando ahora mismo"
+
+msgid "{count} person is viewing this right now"
+msgstr "{count} persona está viendo esto ahora mismo"
+
+msgid "Hibira Live Visitors"
+msgstr "Hibira Live Visitors"
+
+msgid "Hibira"
+msgstr "Hibira"
+
+msgid "https://hibira.io/guides/woocommerce"
+msgstr "https://hibira.io/guides/woocommerce"
+
+msgid "https://hibira.io/?utm_source=woocommerce&utm_medium=plugin&utm_campaign=plugins"
+msgstr "https://hibira.io/?utm_source=woocommerce&utm_medium=plugin&utm_campaign=plugins"
+
+msgid "Real \"12 people are viewing this\" counts, \"someone just bought\" popups and live stock on product pages, counted from open browser tabs on Hibira's realtime service. No fake numbers."
+msgstr "Contadores reales de «12 personas están viendo esto», avisos de «alguien acaba de comprar» y stock en vivo en las páginas de producto, contados a partir de pestañas del navegador abiertas en el servicio en tiempo real de Hibira. Sin números falsos."
