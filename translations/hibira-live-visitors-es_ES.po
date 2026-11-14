@@ -126,3 +126,18 @@ msgstr "{count} persona está comprando ahora mismo"
 
 msgid "{count} person is viewing this right now"
 msgstr "{count} persona está viendo esto ahora mismo"
+
+msgid "Hibira Live Visitors"
+msgstr "Hibira Live Visitors"
+
+msgid "Hibira"
+msgstr "Hibira"
+
+msgid "https://hibira.io/guides/woocommerce"
+msgstr "https://hibira.io/guides/woocommerce"
+
+msgid "https://hibira.io/?utm_source=woocommerce&utm_medium=plugin&utm_campaign=plugins"
+msgstr "https://hibira.io/?utm_source=woocommerce&utm_medium=plugin&utm_campaign=plugins"
+
+msgid "Real \"12 people are viewing this\" counts, \"someone just bought\" popups and live stock on product pages, counted from open browser tabs on Hibira's realtime service. No fake numbers."
+msgstr "Contadores reales de «12 personas están viendo esto», avisos de «alguien acaba de comprar» y stock en vivo en las páginas de producto, contados a partir de pestañas del navegador abiertas en el servicio en tiempo real de Hibira. Sin números falsos."

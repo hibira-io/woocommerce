@@ -43,5 +43,10 @@ return array(
 		'{count} people are viewing this right now' => '{count} personas están viendo esto ahora mismo',
 		'{count} person is shopping right now' => '{count} persona está comprando ahora mismo',
 		'{count} person is viewing this right now' => '{count} persona está viendo esto ahora mismo',
+		'Hibira Live Visitors' => 'Hibira Live Visitors',
+		'Hibira' => 'Hibira',
+		'https://hibira.io/guides/woocommerce' => 'https://hibira.io/guides/woocommerce',
+		'https://hibira.io/?utm_source=woocommerce&utm_medium=plugin&utm_campaign=plugins' => 'https://hibira.io/?utm_source=woocommerce&utm_medium=plugin&utm_campaign=plugins',
+		'Real "12 people are viewing this" counts, "someone just bought" popups and live stock on product pages, counted from open browser tabs on Hibira\'s realtime service. No fake numbers.' => 'Contadores reales de «12 personas están viendo esto», avisos de «alguien acaba de comprar» y stock en vivo en las páginas de producto, contados a partir de pestañas del navegador abiertas en el servicio en tiempo real de Hibira. Sin números falsos.',
 	),
 );
