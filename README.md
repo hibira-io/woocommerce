@@ -4,6 +4,8 @@ Real "3 people are viewing this right now" counts, "Someone just bought" popups 
 
 ![Product page with a live viewer count, a purchase popup and live stock](docs/product-page.png)
 
+🇪🇸 [Tutorial en español](docs/es/README.md), with a short captioned video.
+
 ## What it does
 
 - **Product viewers.** A badge under the price shows how many shoppers have the product open. It hides below a threshold you pick (2 by default).
@@ -66,6 +68,6 @@ GPL-2.0-or-later
 
 Hibira Live Visitors 為 WooCommerce 商品頁加上真實的「現在有 3 人正在看」、「有人剛買了」彈窗和即時庫存。所有數字都是 Hibira 數出的真實開啟分頁，不造假。
 
-安裝後在 Hibira 建立 app 並開啟 **Subscription count**，到 **WooCommerce → 設定 → Live visitors** 貼上 App ID、key、secret 並送出測試事件即可。也可用 `wp-config.php` 的 `HIBIRA_APP_*` 常數設定。全站人數用短代碼 `[hibira_viewers scope="store"]`。支援區塊佈景主題與 HPOS，免費方案（100 連線）即可使用。後台介面支援英文、繁中、簡中、日、韓、泰、越。
+安裝後在 Hibira 建立 app 並開啟 **Subscription count**，到 **WooCommerce → 設定 → Live visitors** 貼上 App ID、key、secret 並送出測試事件即可。也可用 `wp-config.php` 的 `HIBIRA_APP_*` 常數設定。全站人數用短代碼 `[hibira_viewers scope="store"]`。支援區塊佈景主題與 HPOS，免費方案（100 連線）即可使用。後台介面支援英文、繁中、簡中、日、韓、泰、越、西班牙文。西班牙文教學（含字幕影片）在 `docs/es/`。
 
 發布：發佈 GitHub Release（tag `v<版本>`）會自動上傳 zip 並經 SVN 部署到 WordPress.org（trunk、tags、`.wordpress-org/` 的 banner/icon/截圖），需要 `SVN_PASSWORD` secret。翻譯在 translate.wordpress.org，`translations/*.po` 用於首次匯入。
