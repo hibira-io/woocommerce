@@ -4,9 +4,9 @@ Muestra en tu tienda WooCommerce cuántas personas están viendo cada producto, 
 
 La configuración lleva unos cinco minutos y el plan Free de Hibira (100 conexiones simultáneas) es suficiente para empezar.
 
-[![Vídeo del tutorial: crear la app, conectar WooCommerce y ver el resultado en la página de producto](tutorial-poster.png)](tutorial.mp4)
+[![Vídeo del tutorial: crear la app, conectar WooCommerce y ver el resultado en la página de producto](tutorial-poster.png)](https://youtu.be/f0EZsp9VQ8A)
 
-▶️ [Ver el vídeo (57 s, con subtítulos en español)](tutorial.mp4) · [Subtítulos .srt](tutorial.es.srt)
+▶️ [Ver el vídeo en YouTube (57 s, con subtítulos en español)](https://youtu.be/f0EZsp9VQ8A) · [Descargar MP4](tutorial.mp4) · [Subtítulos .srt](tutorial.es.srt)
 
 ## Lo que verán tus clientes
 
